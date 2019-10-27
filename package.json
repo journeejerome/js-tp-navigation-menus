@@ -1,8 +1,8 @@
 {
-  "name": "Boilerplate_JS",
+  "name": "js-tp-navigation-menus",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:DanielSchreurs/Boilerplate_JS.git",
+  "repository": "git@github.com:DanielSchreurs/js-tp-navigation-menus.git",
   "author": "Daniel Schreurs <daniedaniel.schreurs@hotmail.com>",
   "license": "MIT",
   "devDependencies": {

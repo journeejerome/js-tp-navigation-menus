@@ -159,3 +159,4 @@ $RECYCLE.BIN/
 
 /hot
 /mix-manifest.json
+/dist/js/script.min.js
